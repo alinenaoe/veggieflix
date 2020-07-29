@@ -1,0 +1,205 @@
+{
+  "categorias": [
+    {
+      "titulo": "Rápido e fácil",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#802d56",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Macarrão com abobrinha e hortelã em 15 minutos",
+          "url": "https://www.youtube.com/watch?v=DFGI_SvgNaI"
+        },
+        {
+          "titulo": "Legumes assados no forno | Bela Gil",
+          "url": "https://www.youtube.com/watch?v=7J26WeD9g5M"
+        },
+        {
+          "titulo": "O Que Tem na Geladeira? Brócolis",
+          "url": "https://www.youtube.com/watch?v=m4Hbn6hX80U"
+        },
+        {
+          "titulo": "One-Pot Vegetarian Meals",
+          "url": "https://www.youtube.com/watch?v=v-TtVvilah4"
+        },
+        {
+          "titulo": "Panelaço com João Gordo - Gaspacho com Criolo",
+          "url": "https://www.youtube.com/watch?v=9Q1POtXbeb4"
+        },
+        {
+          "titulo": "Nigella Lawson’s Super Easy Lemon Linguine",
+          "url": "https://www.youtube.com/watch?v=MAoZvxWPzgE"
+        },
+        {
+          "titulo": "5 Things... Vegetarian | Food Tube Classic Recipes",
+          "url": "https://www.youtube.com/watch?v=PMnmdL50_FU"
+        },
+        {
+          "titulo": "Gordon Ramsay's Scrambled Eggs",
+          "url": "https://www.youtube.com/watch?v=PUP7U5vTMM0"
+        }
+      ]
+    },
+    {
+      "titulo": "Com sustança",
+      "cor": "#E8AC58",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "How to Make Mushroom Stroganoff",
+          "url": "https://www.youtube.com/watch?v=zhTO0BGtVDc"
+        },
+        {
+          "titulo": "Como fazer Quibe de Abóbora",
+          "url": "https://www.youtube.com/watch?v=qsayfFedTlg"
+        },
+        {
+          "titulo": "6 High-Protein Vegetarian Dinners",
+          "url": "https://www.youtube.com/watch?v=Sf0miHIujeI"
+        },
+        {
+          "titulo": "Molho de tomate da Paola - Nossa Cozinha Ep. 5",
+          "url": "https://www.youtube.com/watch?v=lSr2fEMiAGU"
+        }, 
+        {
+          "titulo": "Arroz com Lentilhas e Cebolas (Mjadra)",
+          "url": "https://www.youtube.com/watch?v=ttBk6qVze1I&list=PLU26nGDtWKKaBSaxicJHE-AB2Yx2by6Ep"
+        },
+        {
+          "titulo": "Italian Grandma Makes Eggplant Parmigiana",
+          "url": "https://www.youtube.com/watch?v=Pd8_SyK-5i4"
+        }
+      ]
+    },
+    {
+      "titulo": "Sobremesa",
+      "cor": "#AFDB6E",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "vegan English trifle with custard | hot for food",
+          "url": "https://www.youtube.com/watch?v=lceJUDmfjWA"
+        },
+        {
+          "titulo": "Cake Au Citron (Lemon Cake)",
+          "url": "https://youtu.be/FLt_MOqUEbM"
+        },
+        {
+          "titulo": "13 Vegan Versions Of Your Favorite Desserts",
+          "url": "https://www.youtube.com/watch?v=Vf5mfMKXRyE"
+        },
+        {
+          "titulo": "Lazy Vegan Dessert Ideas!",
+          "url": "https://www.youtube.com/watch?v=zvsGjCtjQUo"
+        },
+        {
+          "titulo": "No-Bake Vegan Dessert Recipes || Yummy & Easy",
+          "url": "https://www.youtube.com/watch?v=3MTYHhuN6c4"
+        },
+        {
+          "titulo": "Epic desserts to impress",
+          "url": "https://www.youtube.com/watch?v=BaFK17OyXSk"
+        }
+      ]
+    },
+    {
+      "titulo": "Para impressionar os amiguinhos",
+      "cor": "#802d56",
+      "videos": [
+        {
+          "titulo": "Como fazer guacamole | Rodrigo Hilbert",
+          "url": "https://www.youtube.com/watch?v=MjLAcXNdQWU"
+        },
+        {
+          "titulo": "HOW TO MAKE HUMMUS » 5 ways, healthy & easy",
+          "url": "https://www.youtube.com/watch?v=yrR_7hlEGyw"
+        },
+        {
+          "titulo": "Baba Ghanoush - How to Make Roasted Eggplant Dip & Spread",
+          "url": "https://www.youtube.com/watch?v=EUiV_0Acspc"
+        },
+        {
+          "titulo": "vegan spinach dip | hot for food",
+          "url": "https://www.youtube.com/watch?v=rtAZsgawdOM&feature=emb_logo"
+        },
+        {
+          "titulo": "6 Vegan Appetizers For Parties, Potlucks & Holidays",
+          "url": "https://www.youtube.com/watch?v=q84kTPAHSUU"
+        },
+        {
+          "titulo": "Maionese de alho vegana e pão de alho",
+          "url": "https://www.youtube.com/watch?v=Wcxp76SAVSs"
+        }
+      ]
+    },
+    {
+      "titulo": "Vegetarianismo",
+      "cor": "#E8AC58",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Uma horta para chamar de sua",
+      "cor": "#AFDB6E",
+      "link_extra": {
+        "text": "",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
