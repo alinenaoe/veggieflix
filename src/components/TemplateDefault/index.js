@@ -10,6 +10,8 @@ const Main = styled.main`
     padding-top: 50px;
     padding-left: 5%;
     padding-right: 5%;
+    width: 100%;
+    margin: 0 auto;
 `
 
 export default function TemplateDefault({children}) {
