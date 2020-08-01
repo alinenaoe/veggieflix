@@ -24,11 +24,15 @@
     padding-right: 5%;
 
     background: var(--black);
+
+    visibility: hidden;
+    transition: visibility 0.5s, opacity 0.5s linear;
+    transition-timing-function: linear;
 }
-body {
+/* body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);
-}
+} */
 @media (max-width: 800px) {
     .Menu {
         height: 40px;

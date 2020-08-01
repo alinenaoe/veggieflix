@@ -38,18 +38,18 @@ export default function NewCategory() {
   }
 
   useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categories';
-      fetch(URL)
-        .then(async (res) => {
-          if (res.ok) {
-            const data = await res.json();
-            setCategories(data);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
-        });
-    }
+    const URL = window.location.href.includes('localhost')
+      ? 'http://localhost:8080/categories'
+      : 'https://veggieflix.herokuapp.com/categories';
+    fetch(URL)
+      .then(async (res) => {
+        if (res.ok) {
+          const data = await res.json();
+          setCategories(data);
+          return;
+        }
+        throw new Error('Não foi possível pegar os dados');
+      });
   }, []);
 
   return (

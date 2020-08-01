@@ -3,7 +3,9 @@ import styled from 'styled-components';
 export const Title = styled.h3`
   font-style: normal;
   font-weight: normal;
-  font-size: 35px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  letter-spacing: .2rem;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;

@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ContentAreaContainer = styled.section`
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 5%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -69,9 +70,11 @@ export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
+  margin-bottom: 5em;
+  overflow: hidden;
+  /* background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
   background-size: cover;
-  background-position: center;
+  background-position: center; */
   @media (max-width: 800px) {
     height: auto;
     min-height: 50vh;
@@ -122,4 +125,13 @@ export const WatchButton = styled.button`
   @media (max-width: 800px) {
     display: block;
   }
+`;
+
+export const BannerVideo = styled.video`
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%; 
+  filter: opacity(30%);
 `;

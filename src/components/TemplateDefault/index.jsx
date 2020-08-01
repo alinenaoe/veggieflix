@@ -15,6 +15,7 @@ const Main = styled.main`
     margin: 0 auto;
 `;
 
+// eslint-disable-next-line react/prop-types
 export default function TemplateDefault({ children }) {
   return (
     <>
